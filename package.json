@@ -1,0 +1,19 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Chat Room using node and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisPalominoTrevilla/ChatRoom.git"
+  },
+  "author": "Luis Palomino Trevilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisPalominoTrevilla/ChatRoom/issues"
+  },
+  "homepage": "https://github.com/LuisPalominoTrevilla/ChatRoom#readme"
+}
