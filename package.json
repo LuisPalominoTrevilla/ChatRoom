@@ -4,6 +4,7 @@
   "description": "Chat Room using node and socket.io",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon ./server/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/LuisPalominoTrevilla/ChatRoom/issues"
   },
-  "homepage": "https://github.com/LuisPalominoTrevilla/ChatRoom#readme"
+  "homepage": "https://github.com/LuisPalominoTrevilla/ChatRoom#readme",
+  "dependencies": {
+    "express": "4.16.4",
+    "nodemon": "1.18.5",
+    "socket.io": "2.1.1"
+  }
 }
